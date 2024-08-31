@@ -1,0 +1,10 @@
+.message-container {
+  background-color: blue;
+  padding: 1rem;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.message-container:hover {
+  background-color: red;
+}
